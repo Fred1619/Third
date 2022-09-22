@@ -1,0 +1,37 @@
+h3{
+    text-align: center;
+}
+.zzCls{
+    font-family: "黑体";
+    font-size:36px;
+}
+p{
+    font-family: "华文楷体";
+    font-size: 22px;
+}
+#pmid{
+    font-family: '微软雅黑';
+    text-align: right;
+}
+#hid5{
+    font-family: "隶书";
+    font-size: 50px;
+    text-align: center;
+}
+.tiaoclass{
+    font-style: italic;
+    font-size:17px;
+    font-family: "华文楷体";
+}
+.picC1{
+    display: inline-block;
+    width: 400px;
+    height: 300px;
+    background-image: url(img/bom.gif);
+}
+.picC2{
+    display: inline-block;
+    width: 400px;
+    height: 300px;
+    background-image: url(img/bom02.jpeg);
+}
